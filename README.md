@@ -18,7 +18,7 @@ I'm a software engineer turned data science student, now based in Dublin. I spen
 
 - 🏦 Built a FedWire Return system from scratch with an ISO 20022 compliance layer that cut data truncation by 90%
 - 🤖 Building with RAG, LLMs and agentic AI
-- 🎓 Published deep learning research (lip reading, Springer) and diabetic retinopathy classification at 95% accuracy
+- 🎓 Published a lip-reading survey at Springer (ICT4SD 2024), with diabetic retinopathy classification research at 95% accuracy
 - 🏆 Hackathon winner: INC 2024 and MINeD 2024
 - ✍️ I write about technology on [Substack](https://gaurav24.substack.com)
 - 🌐 More at [gaurav.life](https://gaurav.life)
@@ -28,9 +28,11 @@ I'm a software engineer turned data science student, now based in Dublin. I spen
 
 | Project | What it is |
 |---|---|
-| [**PaperInsight**](https://github.com/Gaurav24958/PaperInsight) | RAG app for chatting with scientific papers. Fine-tuned Nougat parses equations and tables, Gemini answers questions. Hackathon winner. |
-| **Lipreading for Indian Accent English** | CNN-BiLSTM model that reads speech from video, with a 4% CER and 15% WER. Ranked first at an international project competition, with a new 500-video Indian English accent dataset. [📄 Paper](https://link.springer.com/chapter/10.1007/978-981-97-8591-9_30) · [🎥 Demo](YOUR_DEMO_VIDEO_LINK) |
-| **Ireland Visa Decision Tracker** | Flask app that tracks Irish visa decisions automatically on a schedule. [🔗 Live](YOUR_LIVE_LINK) |
+| [**PaperInsight**](https://github.com/Gaurav24958/PaperInsight) | RAG app for chatting with scientific papers. Nougat parses equations and tables, Gemini answers questions. 1st place (Cactus track) at MINeD Hackathon 2024. [🎥 Demo](https://drive.google.com/file/d/1bZftENO0wlf9DJcHVDgVy2XpYyaDtqLg/view?usp=drive_link) |
+| **Lipreading for Indian Accent English** | CNN-BiLSTM model that reads speech from video, with a 4% CER and 15% WER. Ranked first at an international project competition, with a new 500-video Indian English accent dataset. [🎥 Demo](https://drive.google.com/file/d/1Jhb-fGVjq1rEbbjmYf9vNLdnGRPH0ejI/view) |
+| [**Ireland Visa Decision Tracker**](https://irelandvisadecision.onrender.com/) | Flask app that tracks Irish visa decisions automatically on a schedule. [🔗 Live](https://irelandvisadecision.onrender.com/) |
+
+**📄 Publication:** [Leveraging Deep Learning for Lip Reading: A Comprehensive Analysis](https://link.springer.com/chapter/10.1007/978-981-97-8591-9_30), Springer, ICT4SD 2024
 
 ## 🛠️ Skills & Tools
 
