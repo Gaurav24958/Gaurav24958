@@ -29,9 +29,8 @@ I'm a software engineer turned data science student, now based in Dublin. I spen
 | Project | What it is |
 |---|---|
 | [**PaperInsight**](https://github.com/Gaurav24958/PaperInsight) | RAG app for chatting with scientific papers. Fine-tuned Nougat parses equations and tables, Gemini answers questions. Hackathon winner. |
-| **Chaos Janitor** | Observability hackathon project: a Red bot injects faults and a Blue bot diagnoses and remediates them using Bronto. |
-| **Vera** | Hackathon project: an AI scam-call companion for older adults that helps them pause, verify and learn from suspicious calls. |
-| **OECD Report Monitor** | Node.js tool that watches for new OECD publications and emails me when they appear. |
+| **Lipreading for Indian Accent English** | CNN-BiLSTM model that reads speech from video, with a 4% CER and 15% WER. Ranked first at an international project competition, with a new 500-video Indian English accent dataset. [📄 Paper](https://link.springer.com/chapter/10.1007/978-981-97-8591-9_30) · [🎥 Demo](YOUR_DEMO_VIDEO_LINK) |
+| **Ireland Visa Decision Tracker** | Flask app that tracks Irish visa decisions automatically on a schedule. [🔗 Live](YOUR_LIVE_LINK) |
 
 ## 🛠️ Skills & Tools
 
