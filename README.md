@@ -30,7 +30,7 @@ I'm a software engineer turned data science student, now based in Dublin. I spen
 |---|---|
 | [**PaperInsight**](https://github.com/Gaurav24958/PaperInsight) | RAG app for chatting with scientific papers. Nougat parses equations and tables, Gemini answers questions. 1st place (Cactus track) at MINeD Hackathon 2024. [🎥 Demo](https://drive.google.com/file/d/1bZftENO0wlf9DJcHVDgVy2XpYyaDtqLg/view?usp=drive_link) |
 | **Lipreading for Indian Accent English** | CNN-BiLSTM model that reads speech from video, with a 4% CER and 15% WER. Ranked first at an international project competition, with a new 500-video Indian English accent dataset. [🎥 Demo](https://drive.google.com/file/d/1Jhb-fGVjq1rEbbjmYf9vNLdnGRPH0ejI/view) |
-| [**Ireland Visa Decision Tracker**](https://irelandvisadecision.onrender.com/) | Flask app that tracks Irish visa decisions automatically on a schedule. [🔗 Live](https://irelandvisadecision.onrender.com/) |
+| [**Ireland Visa Decision Tracker**](https://irelandvisadecision.onrender.com/) | Website that tracks Irish visa decisions automatically on a schedule. [🔗 Live](https://irelandvisadecision.onrender.com/) |
 
 **📄 Publication:** [Leveraging Deep Learning for Lip Reading: A Comprehensive Analysis](https://link.springer.com/chapter/10.1007/978-981-97-8591-9_30), Springer, ICT4SD 2024
 
