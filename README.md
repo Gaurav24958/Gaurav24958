@@ -4,6 +4,7 @@
 
 **Data Science Enthusiast · Machine Learning · NLP · Computer Vision**
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gaurav.life)
 [![Profile Views](https://komarev.com/ghpvc/?username=gaurav24958&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/gaurav24958)
 [![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://gaurav24.substack.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaurav-boob-161ab3200/)
@@ -15,10 +16,11 @@
 
 I am a data science enthusiast from India with a strong interest in transforming data into meaningful insights and practical solutions.
 
+- 🌐 Explore my work on [gaurav.life](https://gaurav.life)
 - 🌱 Currently learning **Natural Language Processing** and **Computer Vision**
 - 🤖 Ask me about **Machine Learning** and **Data Science**
 - ✍️ I write about ideas and concepts in technology on [Substack](https://gaurav24.substack.com)
-- 📄 View my [experience and resume](https://drive.google.com/file/d/1biYvW51Olki3f2BywbpY_ovxRfz4U3nw/view?usp=sharing)
+- 📄 View my [experience and resume](https://drive.google.com/file/d/1Ywp8lc2b7bRtHK_q3_JfcQGajBuUZJdG/view?usp=sharing)
 - ⚡ Fun fact: I genuinely enjoy mathematics
 
 ## 🛠️ Skills & Tools
@@ -51,6 +53,7 @@ I am a data science enthusiast from India with a strong interest in transforming
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=google-chrome&logoColor=white)](https://gaurav.life)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaurav-boob-161ab3200)
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/gauravboob_24)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/b_varuag)
