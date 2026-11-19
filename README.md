@@ -2,7 +2,7 @@
 
 # Hi, I'm Gaurav Boob 👋
 
-**Data Science Enthusiast · Machine Learning · NLP · Computer Vision**
+**MSc Computer Science (Data Science) @ Trinity College Dublin · Software Engineer · ML & AI**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gaurav.life)
 [![Profile Views](https://komarev.com/ghpvc/?username=gaurav24958&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/gaurav24958)
@@ -14,27 +14,42 @@
 
 ## 👨‍💻 About Me
 
-I am a data science enthusiast from India with a strong interest in transforming data into meaningful insights and practical solutions.
+I'm a software engineer turned data science student, now based in Dublin. I spent two years building compliance-critical payment systems (ACH, Wire, FedWire) for US banks at FIS, and I'm now doing my MSc in Computer Science (Data Science) at Trinity College Dublin.
 
-- 🌐 Explore my work on [gaurav.life](https://gaurav.life)
-- 🌱 Currently learning **Natural Language Processing** and **Computer Vision**
-- 🤖 Ask me about **Machine Learning** and **Data Science**
-- ✍️ I write about ideas and concepts in technology on [Substack](https://gaurav24.substack.com)
-- 📄 View my [experience and resume](https://drive.google.com/file/d/1Ywp8lc2b7bRtHK_q3_JfcQGajBuUZJdG/view?usp=sharing)
-- ⚡ Fun fact: I genuinely enjoy mathematics
+- 🏦 Built a FedWire Return system from scratch with an ISO 20022 compliance layer that cut data truncation by 90%
+- 🤖 Building with RAG, LLMs and agentic AI
+- 🎓 Published deep learning research (lip reading, Springer) and diabetic retinopathy classification at 95% accuracy
+- 🏆 Hackathon winner: INC 2024 and MINeD 2024
+- ✍️ I write about technology on [Substack](https://gaurav24.substack.com)
+- 🌐 More at [gaurav.life](https://gaurav.life)
+- ⚡ Fun fact: I genuinely enjoy mathematics, and I trek when I can
+
+## 🚀 Projects
+
+| Project | What it is |
+|---|---|
+| [**PaperInsight**](https://github.com/Gaurav24958/PaperInsight) | RAG app for chatting with scientific papers. Fine-tuned Nougat parses equations and tables, Gemini answers questions. Hackathon winner. |
+| **Chaos Janitor** | Observability hackathon project: a Red bot injects faults and a Blue bot diagnoses and remediates them using Bronto. |
+| **Vera** | Hackathon project: an AI scam-call companion for older adults that helps them pause, verify and learn from suspicious calls. |
+| **OECD Report Monitor** | Node.js tool that watches for new OECD publications and emails me when they appear. |
 
 ## 🛠️ Skills & Tools
 
 <div align="center">
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
 </div>
 
